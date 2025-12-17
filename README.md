@@ -4,4 +4,4 @@
 
 [Python](./python/README.md)
 
-[Angular](./angular/README.md)
+[Angular](./angular/pluralsight/Angular%20Foundations/README.md)
